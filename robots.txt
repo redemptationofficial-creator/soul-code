@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redemptationofficial-creator.github.io/soul-code/sitemap.xml
